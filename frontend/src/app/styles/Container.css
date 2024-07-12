@@ -1,0 +1,55 @@
+#react-paginate {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+#react-paginate ul {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#react-paginate li {
+  display: inline-block;
+}
+
+#react-paginate .break a {
+  cursor: default;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 50vw;
+  padding: 20px;
+}
+
+.form-group .form-control {
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.btn.search {
+  text-align: center;
+  color: #ffffff;
+  background-color: #706778;
+  border: 1px solid #706778;
+  border-radius: 0;
+  outline: none;
+  cursor: pointer;
+  margin-top: 0;
+}
+
+.search:hover {
+  background-color: #564f5d;
+}
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  justify-content: center;
+  align-items: center;
+}

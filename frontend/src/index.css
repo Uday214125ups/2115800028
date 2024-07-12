@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,700|Oswald');
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f6f6f6;
+  color: #2f304c;
+  font-size: 16px;
+  font-family: 'Maven Pro', Arial, sans-serif;
+  font-weight: 400;
+}
